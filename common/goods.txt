@@ -1,0 +1,52 @@
+Clothes,30
+Electricity,30
+Fabric,20
+Fish,20
+Furniture,30
+Grain,20
+Groceries,30
+Paper,30
+Services,30
+Transportation,30
+Wood,20
+Automobiles,100
+Coffee,50
+Fine Art,200
+Fruit,30
+Gold,100
+Liquor,30
+Luxury Clothes,60
+Luxury Furniture,60
+Meat,30
+Opium,50
+Porcelain,70
+Radios,80
+Sugar,30
+Tea,50
+Telephones,70
+Tobacco,40
+Wine,50
+Clippers,60
+Coal,30
+Dye,40
+Engines,60
+Explosives,50
+Fertilizer,30
+Glass,40
+Hardwood,40
+Iron,40
+Lead,40
+Oil,40
+Rubber,40
+Silk,40
+Steamers,70
+Steel,50
+Sulfur,50
+Tools,40
+Aeroplanes,80
+Ammunition,50
+Artillery,70
+Ironclads,80
+Man-o-Wars,70
+Small Arms,60
+Tanks,80

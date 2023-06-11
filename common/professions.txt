@@ -1,0 +1,18 @@
+Profession,Starting standard of living,Wage multiplier
+Clerks,7,1.5
+Farmers,7,1.5
+Laborers,5,1
+Machinists,7,1.5
+Peasants,5,0.2
+Servicemen,7,1.5
+Slaves,1,0
+
+Academics,10,4
+Bureaucrats,10,4
+Clergymen,10,3
+Engineers,10,3
+Officers,10,5
+Shopkeepers,10,2
+
+Aristocrats,20,6
+Capitalists,20,6
